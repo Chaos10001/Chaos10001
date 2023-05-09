@@ -1,5 +1,3 @@
-# Chaos
-
 Hello there; welcome 👋🏾
 
 I'm a Frontend Engineer. I'm passionate about building products and solving problems through my codes, documentation, web development and others.
