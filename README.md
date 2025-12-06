@@ -8,7 +8,7 @@ I'm a Mobile Engineer. I'm passionate about building products and solving proble
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [femiblessing02@gmail.com](mailto:femiblessing02@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on open source projects, hackathons, and Mid-level opportunities.
 * ⚡  Fun fact: I love watching anime😊
 
